@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭Freelance Computer Programmer<br>👯 Curseforge Java mod developer<br>🤝 I’m looking for help with CSS frontend website designing<br>🌱 I’m currently learning Python<br>💬 Ask me about Computer Security Systems<br>⚡ Fun fact : I just graduated from Associate Degree
-
+🔭Freelance Computer Programmer<br>👯 Curseforge Java mod developer<br>🤝 I’m looking for help with CSS frontend website designing<br>🌱 Unreal Engine Developer <br>💬 Ask me about Computer Security Systems<br>⚡ İş Bankası ML Challange Top #100 Python Programmer
 
 ## 🌐 Social Media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_the_erdem_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](erdem-erçetin-262854222) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ymcerdem) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Erdem-Er%C3%A7etin)
